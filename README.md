@@ -4,9 +4,9 @@ Gives you the necesarry dummy functions for code completion to work in your ide 
 
 just do a 
 
-` 
+
 ` from crypy import * 
-` 
+
 
 
 Then you'll be able to do this
