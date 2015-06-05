@@ -10,5 +10,4 @@ just do a
 
 
 Then you'll be able to do this
-
-!http://i.imgur.com/p7TlOVj.png!
+![Code Completion](http://i.imgur.com/p7TlOVj.png)
