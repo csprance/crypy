@@ -5,7 +5,11 @@ Gives you the necesarry dummy functions for code completion to work in your ide 
 just do a 
 
 
-    from crypy import * 
+    try:
+	    from crypy import *
+    except:
+	    pass
+
 
 
 
